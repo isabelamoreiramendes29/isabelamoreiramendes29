@@ -6,7 +6,7 @@
 
 ![Isabela's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabelamoreiramendes29&show_icons=true&theme=radical)
 
-![Isabela's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamoreiramendes29&layout=compact)
+![Linguagens que mais uso](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamoreiramendes29&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 
